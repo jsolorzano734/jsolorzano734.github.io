@@ -59,7 +59,7 @@ custom_footer:
 ## Analytics
 google_analytics: UA-320062591
 # Build settings
-# markdown: kramdown
+ markdown: kramdown
 #theme: minima
 plugins:
   - jekyll-feed
