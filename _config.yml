@@ -60,10 +60,7 @@ custom_footer:
 google_analytics: UA-320062591
 # Build settings
 # For markdown
-kramdown:
-  # Autogenerate IDs for headings
-  # Used for anchor links
-  auto_ids: true
+markdown: kramdown
 
 #theme: minima
 plugins:
