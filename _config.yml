@@ -18,23 +18,23 @@ twitter_username : josesolorzano734
 github_username  : jsolorzano734
 
 # Site Logos
-logo    : ""
-favicon : 
+#logo    : ""
+#favicon : 
 
 
 # Author Info
 author:
   name      : "Jose E. Solorzano"
-  avatar    : ""
-  intro     : ""
-  bio       : "Data Scientist"
-  blurb     : ""
+ # avatar    : ""
+ # intro     : ""
+ # bio       : ""
+ # blurb     : ""
   location  : "Saint Paul, MN"
   email     : ortiz432@umn.edu
   github    : jsolorzano734
   linkedin  : Jose E Solorzano
   twitter   : josesolorzano734
-  facebook  :
+# facebook  :
   instagram : jsolorzano734
   youtube   : jose E Solorzano
 
@@ -46,24 +46,28 @@ author:
 custom_footer:
   links:
     - label: "Twitter"
-      icon: ""
+     # icon: ""
       url: "https://twitter.com/josesolorzano734"
     - label: "LinkedIn"
-      icon: ""
+     # icon: ""
       url: "https://www.linkedin.com/in/jos%C3%A9-e-sol%C3%B3rzano-720a25168/"
     - label: "Instagram"
-      icon: ""
+    # icon: ""
       url: "https://wwww.instagram.com/jsolorzano734"
 
 
 ## Analytics
 google_analytics: UA-320062591
 # Build settings
+# For markdown
+kramdown:
+  # Autogenerate IDs for headings
+  # Used for anchor links
+  auto_ids: true
+
 #theme: minima
 plugins:
   - jekyll-feed
-include:
-  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
