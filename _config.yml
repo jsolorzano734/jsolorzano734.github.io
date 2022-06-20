@@ -1,53 +1,78 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+## Theme
+remote_theme  : chrisrhymes/bulma-clean-theme
+theme_color   : '#022343'
 
-title: Jose E. Solorzano's Blog
-email: ortiz432@umn.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Jose's w-site is under construction. He might be working in the lab righ now.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: josesolorzano73
-github_username:  jsolorzano734
 
+## Site settings
+title   : Jose E. Solorzano
+tagline   : 
+lang    : en
+email   : ortiz432@umn.edu
+description : 
+baseurl   : "" # the subpath of your site, e.g. /blog
+url   : "https://jsolorzano734.github.io"
+open_new_tab  : true  
+
+# Social media
+twitter_username : josesolorzano734
+github_username  : jsolorzano734
+
+# Site Logos
+logo    : ""
+favicon : 
+
+
+# Author Info
+author:
+  name      : "Jose E. Solorzano"
+  avatar    : ""
+  intro     : ""
+  bio       : "Data Scientist"
+  blurb     : ""
+  location  : "Saint Paul, MN"
+  email     : ortiz432@umn.edu
+  github    : jsolorzano734
+  linkedin  : Jose E Solorzano
+  twitter   : josesolorzano734
+  facebook  :
+  instagram : jsolorzano734
+  youtube   : jose E Solorzano
+
+
+## Footer
+# footer_menu: my_footer
+
+# Custom Footer
+custom_footer:
+  links:
+    - label: "Twitter"
+      icon: ""
+      url: "https://twitter.com/josesolorzano734"
+    - label: "LinkedIn"
+      icon: ""
+      url: "https://www.linkedin.com/in/jos%C3%A9-e-sol%C3%B3rzano-720a25168/"
+    - label: "Instagram"
+      icon: ""
+      url: "https://wwww.instagram.com/jsolorzano734"
+
+
+## Analytics
+google_analytics: UA-320062591
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes"
+# markdown: kramdown
+#theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
+include:
+  - _pages
 
 # Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
 # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules/
+#   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
