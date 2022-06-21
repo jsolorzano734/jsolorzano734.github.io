@@ -1,70 +1,73 @@
-## Theme
+
+### Theme ###
 remote_theme  : chrisrhymes/bulma-clean-theme
 theme_color   : '#022343'
 
 
-## Site settings
-title   : Jose E. Solorzano
-tagline   : 
-lang    : en
-email   : ortiz432@umn.edu
-description : 
-baseurl   : "" # the subpath of your site, e.g. /blog
-url   : "https://jsolorzano734.github.io"
-open_new_tab  : true  
+### Site settings ###
+title		: Jose E. Solorzano
+tagline		: PhD Student
+lang		: en
+email		: josesolorzano689@gmail.com
+description	: 
+baseurl		: "" # the subpath of your site, e.g. /blog
+url		: "https://jsolorzano734.github.io"
+open_new_tab	: true  
 
-# Social media
-twitter_username : josesolorzano734
+# Site Social
+twitter_username : josesolorzano73
 github_username  : jsolorzano734
 
 # Site Logos
-#logo    : ""
-#favicon : 
+logo    : "assets/images/site_images/LB-round.png"
+favicon : assets/images/site_images/LB-round.png
 
 
 # Author Info
 author:
   name      : "Jose E. Solorzano"
- # avatar    : ""
- # intro     : ""
- # bio       : ""
- # blurb     : ""
+  avatar    : "assets/images/site_images/Jose.jpg"
+  intro     : "Hi, I'm Jose."
+  bio       : "Plant Pathologist"
+  blurb     : "PhD Student and Research Assistant"
   location  : "Saint Paul, MN"
-  email     : ortiz432@umn.edu
-  github    : jsolorzano734
-  linkedin  : Jose E Solorzano
-  twitter   : josesolorzano734
-# facebook  :
-  instagram : jsolorzano734
-  youtube   : jose E Solorzano
+  email     : josesolorzano689@gmail.com
+  github    :
+  linkedin  : josé-e-solórzano-720a25168
+  twitter   : josesolorzano73
+  facebook  :
+  instagram :
+  youtube   :
 
 
-## Footer
-# footer_menu: my_footer
+### Footer ###
+#footer_menu: my_footer
 
 # Custom Footer
 custom_footer:
   links:
     - label: "Twitter"
-     # icon: ""
-      url: "https://twitter.com/josesolorzano734"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/josesolorzano73"
     - label: "LinkedIn"
-     # icon: ""
-      url: "https://www.linkedin.com/in/jos%C3%A9-e-sol%C3%B3rzano-720a25168/"
-    - label: "Instagram"
-    # icon: ""
-      url: "https://wwww.instagram.com/jsolorzano734"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/josé-e-solórzano-720a25168"
 
 
-## Analytics
+### Analytics ###
 google_analytics: UA-320062591
-# Build settings
-# For markdown
-markdown: kramdown
 
+
+
+# Build settings
+markdown: kramdown
 #theme: minima
+
 plugins:
   - jekyll-feed
+  
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
