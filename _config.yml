@@ -5,28 +5,28 @@ theme_color   : '#022343'
 
 
 ### Site settings ###
-title		: Jose E. Solorzano
-tagline		: PhD Student
-lang		: en
-email		: josesolorzano689@gmail.com
-description	: 
-baseurl		: "" # the subpath of your site, e.g. /blog
-url		: "https://jsolorzano734.github.io"
-open_new_tab	: true  
+title   : Jose E. Solorzano
+tagline   : PhD Student
+lang    : en
+email   : josesolorzano689@gmail.com
+description : 
+baseurl   : "" # the subpath of your site, e.g. /blog
+url   : "https://jsolorzano734.github.io"
+open_new_tab  : true  
 
 # Site Social
 twitter_username : josesolorzano73
 github_username  : jsolorzano734
 
 # Site Logos
-logo    : "assets/images/site_images/LB-round.png"
-favicon : assets/images/site_images/LB-round.png
+logo    : "assets/images/site_images/logoJoseJ.png"
+favicon : assets/images/site_images/logoJoseJ.png
 
 
 # Author Info
 author:
   name      : "Jose E. Solorzano"
-  avatar    : "assets/images/site_images/Jose.jpg"
+  avatar    : "assets/images/site_images/Jose_grayBackground.jpg"
   intro     : "Hi, I'm Jose."
   bio       : "Plant Pathologist"
   blurb     : "PhD Student and Research Assistant"
@@ -37,7 +37,7 @@ author:
   twitter   : josesolorzano73
   facebook  :
   instagram :
-  youtube   :
+  youtube   : 
 
 
 ### Footer ###
@@ -55,7 +55,7 @@ custom_footer:
 
 
 ### Analytics ###
-google_analytics: UA-320062591
+google_analytics: G-VGG7Q8FP0S
 
 
 
