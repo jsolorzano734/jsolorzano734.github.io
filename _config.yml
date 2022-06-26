@@ -5,7 +5,7 @@ theme_color   : '#022343'
 
 
 ### Site settings ###
-title   : Jose E. Solorzano
+title   : JES
 tagline   : PhD Student
 lang    : en
 email   : josesolorzano689@gmail.com
@@ -27,7 +27,7 @@ favicon : assets/images/site_images/logoJoseJ.png
 author:
   name      : "Jose E. Solorzano"
   avatar    : "assets/images/site_images/Jose_grayBackground.jpg"
-  intro     : "Hi, I'm Jose."
+  intro     : "I am passionate about plants and fungi"
   bio       : "Plant Pathologist"
   blurb     : "PhD Student and Research Assistant"
   location  : "Saint Paul, MN"
@@ -40,9 +40,6 @@ author:
   youtube   : 
 
 
-### Footer ###
-#footer_menu: my_footer
-
 # Custom Footer
 custom_footer:
   links:
@@ -52,6 +49,9 @@ custom_footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/josé-e-solórzano-720a25168"
+    - label: "instagram"
+      icon: "fab fa-fw fa-Instagram"
+      url: "https://www.instagram.com/jsolorzano734/"
 
 
 ### Analytics ###
