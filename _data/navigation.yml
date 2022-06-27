@@ -1,7 +1,10 @@
-- name: Contact
-  link: /contact/
+- name: About
+  link: /about/
+- name: Resources
+  link: /Resources/
+- name: Activities
+  link: /Activities/
 - name: More
   dropdown:
-    - name: Community
-      link: /community/
-      
+    - name: Contact
+      link: /contact/
