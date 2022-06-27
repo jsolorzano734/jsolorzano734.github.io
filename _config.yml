@@ -10,7 +10,7 @@ tagline   : PhD Student
 lang    : en
 email   : josesolorzano689@gmail.com
 description : 
-baseurl   : "https://jsolorzano734.github.io/about/" # the subpath of your site, e.g. /blog
+baseurl   : "" # the subpath of your site, e.g. /blog
 url   : "https://jsolorzano734.github.io"
 open_new_tab  : true  
 
