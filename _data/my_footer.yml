@@ -1,4 +1,6 @@
-- name: Twitter
-  link: "https://twitter.com/josesolorzano73"
-- name: LinkedIn
-  link: "https://www.linkedin.com/in/jos%C3%A9-e-sol%C3%B3rzano-720a25168"
+## not using this footer
+
+#- name: Twitter
+# link: "https://twitter.com/josesolorzano73"
+#- name: LinkedIn
+#  link: "https://www.linkedin.com/in/jos%C3%A9-e-sol%C3%B3rzano-720a25168"
