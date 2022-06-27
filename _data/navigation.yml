@@ -4,7 +4,5 @@
   link: /Resources/
 - name: Activities
   link: /Activities/
-- name: More
-  dropdown:
-    - name: Contact
-      link: /contact/
+- name: Contact
+  link: /contact/
