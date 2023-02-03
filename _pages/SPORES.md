@@ -9,7 +9,7 @@ hero_image: /assets/images/site_images/backgrounds/gradientBlue.png
 
 #### SPORES  
 
-![](/assets/images/site_images/SPORES_simple.png)
+![](/assets/images/site_images/spores.jpg)
 
 SPORES (Society Prioritizes Our Recruitment of Every Scholar) aims to attract undergraduate students from underrepresented and underserved communities (mentees) to attend the annual [Mycological Society of America](https://msafungi.org/) meeting and become MSA members. We will recruit established MSA members to act as mentors (PhD students, or mycologists with PhDs) to introduce and guide mentees at the MSA annual meeting, facilitating friendly and productive experiences with the goal of leading to long-term MSA membership and participation.  
 
@@ -24,9 +24,9 @@ The mission of SPORES is to provide opportunities for first-time undergraduate s
 
 <tr style="border:none;">
   <td style="border: none;font-size:16px;">
-    <span style="font-weight:700;">Jose E. Solorzano</span>
+    <span style="font-weight:700;">José E. Solérzano</span>
     <br>
-Jose is a PhD student at the University of Minnesota and current recipient of the MSA DEI ambassador award from the MSA.
+Jose is currently a Plant Pathology PhD student at the University of Minnesota and current recipient of the MSA DEI Ambassador Award from the MSA. He earned a Master of Science degree at Louisiana State University and previously earned a Bachelors degree in Agricultural Engineering at the Universidad Nacional de Agricultura y Ganaderia, Honduras.
   </td>
   <td style="width:30%;border:none;font-size:16px;">
     <img src= "{{ "/assets/images/site_images/Jose.jpg" | relative_url }}"/>
