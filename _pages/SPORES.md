@@ -7,17 +7,18 @@ hero_height: is-fullwidth
 hero_image: /assets/images/site_images/backgrounds/gradientBlue.png
 ---
 
-![](/assets/images/site_images/SPORES_simple) 
+#### SPORES  
 
+![](/assets/images/site_images/SPORES_simple)
 
-#### SPORES program  
-SPORES (Society Prioritizes Our Recruitment of Every Scholar) aims to attract undergraduate students from underrepresented and underserved communities (mentees) to attend the annual MSA meeting and become [MSA](https://msafungi.org/) members. We will recruit established MSA members to act as mentors (PhD students, or mycologists with PhDs) to introduce and guide mentees at the MSA annual meeting, facilitating friendly and productive experiences with the goal of leading to long-term MSA membership and participation. 
+SPORES (Society Prioritizes Our Recruitment of Every Scholar) aims to attract undergraduate students from underrepresented and underserved communities (mentees) to attend the annual [Mycological Society of America](https://msafungi.org/) meeting and become MSA members. We will recruit established MSA members to act as mentors (PhD students, or mycologists with PhDs) to introduce and guide mentees at the MSA annual meeting, facilitating friendly and productive experiences with the goal of leading to long-term MSA membership and participation.  
 
 #### Mission  
-The mission of SPORES is to provide opportunities for first-time undergraduate students to be introduced to MSA by current mycologists (mentors) in a friendly and constructive environment, promoting a sense of belonging in society with the goal of retaining them as long-term members. To accomplish the mission of SPORES, we request MSA’s support mentee membership and annual meeting attendance. By providing financial aid, MSA will actively invest in its mission of promoting science equity and diversity in the society.
+
+The mission of SPORES is to provide opportunities for first-time undergraduate students to be introduced to MSA by current mycologists (mentors) in a friendly and constructive environment, promoting a sense of belonging in society with the goal of retaining them as long-term members. To accomplish the mission of SPORES, we request MSA’s support mentee membership and annual meeting attendance. By providing financial aid, MSA will actively invest in its mission of promoting science equity and diversity in the society. 
 
 
-### Members  
+### Members   
 
 <table style="width:100%; border:none;" cellspacing="10" >
 
@@ -73,4 +74,4 @@ Javier is Assistant Professor of Genomics at the Department of Biology of Clark 
 <br><br>
 
 #### Contact Information  
-Contact us via <a href="mailto:ortiz432@umn.edu" style="text-decoration: none; color:#039fb9">here</a> or message me at any of my social media pages
+Contact us via <a href="mailto:ortiz432@umn.edu" style="text-decoration: none; color:#039fb9">here</a>
