@@ -74,4 +74,4 @@ Javier is Assistant Professor of Genomics at the Department of Biology of Clark 
 <br><br>
 
 #### Contact Information  
-Contact us via <a href="mailto:ortiz432@umn.edu" style="text-decoration: none; color:#039fb9">here</a>
+Contact us via <a href="mailto:ortiz432@umn.edu" style="text-decoration: none; color:#039fb9">E-mail</a>

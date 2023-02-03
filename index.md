@@ -20,10 +20,7 @@ I am currently a PhD student. After graduation, I would like to become an educat
   
 - <a href="https://apsjournals.apsnet.org/doi/10.1094/PHP-03-22-0021-RS" target="_blank" style="text-decoration: none; color:#039fb9"> May 2022. Recent publication about the fungus _Xylaria necrophora_ </a>: Secondary metabolites produced by _Xylaria necrophora_ are responsible for foliar symptoms associated with taproot decline of soybean. 
 
-More will be added.
-
-#### _Abstracts_
-Under construction.
+- <a href="https://apsjournals.apsnet.org/doi/10.1094/PHP-03-22-0021-RS" target="_blank" style="text-decoration: none; color:#039fb9"> May 2022. Recent publication about the fungus _Xylaria necrophora_ </a>: Secondary metabolites produced by _Xylaria necrophora_ are responsible for foliar symptoms associated with taproot decline of soybean. 
 
 <br><br>
 
