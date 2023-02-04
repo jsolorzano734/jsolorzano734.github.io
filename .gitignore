@@ -4,6 +4,6 @@ _site
 .jekyll-metadata
 vendor
 .DS_Store
-assets
+assets/images
 .Rhistory
 
