@@ -7,8 +7,6 @@ hero_height: is-fullwidth
 hero_image: /assets/images/site_images/backgrounds/gradientBlue.png
 ---
 
-#### SPORES  
-
 ![](/assets/images/site_images/spores_b.jpg)
 
 SPORES (Society Prioritizes Our Recruitment of Every Scholar) aims to attract undergraduate students from underrepresented and underserved communities (mentees) to attend the annual [Mycological Society of America](https://msafungi.org/) meeting and become MSA members. We will recruit established MSA members to act as mentors (PhD students, or mycologists with PhDs) to introduce and guide mentees at the MSA annual meeting, facilitating friendly and productive experiences with the goal of leading to long-term MSA membership and participation.  
@@ -24,7 +22,7 @@ The mission of SPORES is to provide opportunities for first-time undergraduate s
 
 <tr style="border:none;">
   <td style="border: none;font-size:16px;">
-    <span style="font-weight:700;">José E. Solérzano</span>
+    <span style="font-weight:700;">José E. Solórzano</span>
     <br>
 Jose is currently a Plant Pathology PhD student at the University of Minnesota and current recipient of the MSA DEI Ambassador Award from the MSA. He earned a Master of Science degree at Louisiana State University and previously earned a Bachelors degree in Agricultural Engineering at the Universidad Nacional de Agricultura y Ganaderia, Honduras.
   </td>
@@ -62,7 +60,7 @@ Dr. Lofgren is an NIH Postdoctoral Research Fellow in the Tri-Institutional Mole
   <td style="border: none;font-size:16px;">
     <span style="font-weight:700;"> Dr. Javier F. Tabima R.</span>
     <br>
-Dr. Tabima is an Assistant Professor of Genomics at the Department of Biology of Clark University. My lab is interested in identifying the patterns of genomic evolution of fungal species and populations, specially focused on the evolution, systematics, and the genomics of secondary metabolism of the genus _Basidiobolus_. I am also deeply active in recruitment and retention of underrepresented minorities in STEM, migrant inclusivity, social justice and racial equity.
+Dr. Tabima is an Assistant Professor of Genomics at the Department of Biology of Clark University. My lab is interested in identifying the patterns of genomic evolution of fungal species and populations, specially focused on the evolution, systematics, and the genomics of secondary metabolism of the genus Basidiobolus. I am also deeply active in recruitment and retention of underrepresented minorities in STEM, migrant inclusivity, social justice and racial equity.
   </td>
   <td style="width:30%;border:none;font-size:16px;">
     <img src= "{{ "assets/images/site_images/jv.jpeg" | relative_url }}"/>
