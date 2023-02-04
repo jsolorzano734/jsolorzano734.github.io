@@ -36,7 +36,7 @@ Jose is currently a Plant Pathology PhD student at the University of Minnesota a
   <td style="border: none;font-size:16px;">
     <span style="font-weight:700;">Dr. Sara Branco</span>
     <br>
-Dr. Branco completed her Ph.D. in Evolutionary Biology from the University of Chicago as a Fulbright scholar, was a Postdoctoral Researcher at the University of California, Berkeley and a Marie Curie Postdoctoral Fellow at the University of Paris. She has been studying fungi since she was 16 years old and earned her undergraduate degree at the University of Lisbon (Portugal). Currently Dr. Branco is an Assistant Professor at the Department of Integrative Biology at University of Colorado Denver.
+Dr. Branco completed her PhD in Evolutionary Biology from the University of Chicago as a Fulbright scholar, was a Postdoctoral Researcher at the University of California, Berkeley and a Marie Curie Postdoctoral Fellow at the University of Paris. She has been studying fungi since she was 16 years old and earned her undergraduate degree at the University of Lisbon (Portugal). Currently Dr. Branco is an Assistant Professor at the Department of Integrative Biology at University of Colorado Denver.
   </td>
   <td style="width:30%;border:none;font-size:16px;">
     <img src= "{{ "assets/images/site_images/sb.jpg" | relative_url }}"/>
