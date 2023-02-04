@@ -48,10 +48,10 @@ Dr. Branco completed her Ph.D. in Evolutionary Biology from the University of Ch
   <td style="border: none;font-size:16px;">
     <span style="font-weight:700;">Dr. Lotus Lofgren</span> 
 <br>
-Dr. Lofgren is an NIH Postdoctoral Research Fellow in the Tri-Institutional Molecular Mycology and Pathogenesis. Training Program. Biology Department. Duke University. Durham, NC.
+Dr. Lofgren is an NIH Postdoctoral Research Fellow in the Tri-Institutional Molecular Mycology and Pathogenesis. Training Program, Biology Department, Duke University, Durham, NC.
     </td>
     <td style="width:30%;border:none;font-size:16px;">
-	<img src= "{{ "assets/images/site_images/Lof.jpeg" | relative_url }}"/>
+	<img src= "{{ "assets/images/site_images/Lof.jpg" | relative_url }}"/>
     </td>
 </tr>
 
@@ -60,10 +60,10 @@ Dr. Lofgren is an NIH Postdoctoral Research Fellow in the Tri-Institutional Mole
   <td style="border: none;font-size:16px;">
     <span style="font-weight:700;"> Dr. Javier F. Tabima R.</span>
     <br>
-Dr. Tabima is an Assistant Professor of Genomics at the Department of Biology of Clark University. My lab is interested in identifying the patterns of genomic evolution of fungal species and populations, specially focused on the evolution, systematics, and the genomics of secondary metabolism of the genus Basidiobolus. I am also deeply active in recruitment and retention of underrepresented minorities in STEM, migrant inclusivity, social justice and racial equity.
+Dr. Tabima is an Assistant Professor of Genomics at the Department of Biology of Clark University. His lab is interested in identifying the patterns of genomic evolution of fungal species and populations, specially focused on the evolution, systematics, and the genomics of secondary metabolism of the genus Basidiobolus. He is also deeply active in recruitment and retention of underrepresented minorities in STEM, migrant inclusivity, social justice and racial equity.
   </td>
   <td style="width:30%;border:none;font-size:16px;">
-    <img src= "{{ "assets/images/site_images/jv.jpeg" | relative_url }}"/>
+    <img src= "{{ "assets/images/site_images/jv.jpg" | relative_url }}"/>
   </td>
 </tr>
 </table>
