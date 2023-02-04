@@ -2,7 +2,7 @@
 layout: page
 
 hero_height: is-fullwidth
-hero_image: /assets/images/site_images/backgrounds/gradientBlue.png
+hero_image: /assets/site_images/backgrounds/gradientBlue.png
 
 show_avatar: yes
 

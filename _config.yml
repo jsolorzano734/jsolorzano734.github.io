@@ -16,14 +16,14 @@ open_new_tab  : true
 
 
 # Site Logos
-logo    : "assets/images/site_images/logoJoseJ.png"
+logo    : "assets/site_images/logoJoseJ.png"
 favicon : assets/images/site_images/logoJoseJ.png
 
 
 # Author Info
 author:
   name      : "Jose E. Solorzano"
-  avatar    : "assets/images/site_images/Jose_grayBackground.jpg"
+  avatar    : "assets/site_images/Jose_grayBackground.jpg"
   intro     : "I am passionate about plants and fungi"
   bio       : "Plant Pathologist"
   blurb     : "PhD Student and Research Assistant"

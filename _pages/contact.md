@@ -5,7 +5,7 @@ title: Contact
 permalink: /contact/
 
 hero_height: is-fullwidth
-hero_image: /assets/images/site_images/backgrounds/gradientBlue.png
+hero_image: /assets/site_images/backgrounds/gradientBlue.png
 ---
 
 ### Contact me
