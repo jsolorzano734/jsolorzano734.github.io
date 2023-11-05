@@ -11,13 +11,13 @@ hero_image: /assets/site_images/backgrounds/gradientBlue.png
 
 <div class="thermometer-container">
   <!-- Thermometer SVG and scripts for creating the fundraising thermometer -->
-  <svg id="fundraising-thermometer-182" width="800" height="1050"></svg>
+  <svg id="fundraising-thermometer-182" width="400" height="525"></svg>
   <script>
     var fundraising_thermometer_182 = {
       "layout":"1",
       "fill-color":"rgba(231, 97, 81, 1)",
       "goal-amount":"1000",
-      "progress-amount":"2500",
+      "progress-amount":"20",
       "show-goal-amount":"1",
       "show-progress-percentage":"1",
       "show-progress-amount":"1"
