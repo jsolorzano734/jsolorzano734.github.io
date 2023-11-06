@@ -7,7 +7,7 @@ hero_height: is-fullwidth
 hero_image: /assets/site_images/backgrounds/gradientBlue.png
 
 ---  
-<div class="title"><span style="font-weight: bold; font-size: larger;">$20</span> raised!</div>
+<div class="title"><span style="font-weight: bold; font-size: larger;">$562</span> raised!</div>
 
 <div class="thermometer-container">
   <!-- Thermometer SVG and scripts for creating the fundraising thermometer -->
@@ -17,7 +17,7 @@ hero_image: /assets/site_images/backgrounds/gradientBlue.png
       "layout":"1",
       "fill-color":"rgba(231, 97, 81, 1)",
       "goal-amount":"1000",
-      "progress-amount":"20",
+      "progress-amount":"562",
       "show-goal-amount":"1",
       "show-progress-percentage":"1",
       "show-progress-amount":"1"
