@@ -1,13 +1,13 @@
 ---
 layout: page
-title: PPSO
+title: PPSO Fundraising Week from Nov. 6th to Nov. 10th, 2023
 permalink: /resources/
 
 hero_height: is-fullwidth
 hero_image: /assets/site_images/backgrounds/gradientBlue.png
 
 ---  
-<div class="title">PPSO Fundraising Week</div>
+<div class="title"><span style="font-weight: bold; font-size: larger;">$20</span> raised of $1000 goal</div>
 
 <div class="thermometer-container">
   <!-- Thermometer SVG and scripts for creating the fundraising thermometer -->
