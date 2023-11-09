@@ -38,7 +38,7 @@ hero_image: /assets/site_images/backgrounds/gradientBlue.png
 
 ---  
   
-## $890 raised!  
+## $1716 raised! Let's go for more...
   
 <div class="thermometer-container">
   <!-- Thermometer SVG and scripts for creating the fundraising thermometer -->
