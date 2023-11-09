@@ -48,7 +48,7 @@ hero_image: /assets/site_images/backgrounds/gradientBlue.png
       "layout":"1",
       "fill-color":"rgba(231, 97, 81, 1)",
       "goal-amount":"1000",
-      "progress-amount":"890",
+      "progress-amount":"1716",
       "show-goal-amount":"1",
       "show-progress-percentage":"1",
       "show-progress-amount":"1"
